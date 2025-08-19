@@ -1,4 +1,7 @@
 baseURL = 'https://Horizon-Innovation-Team.github.io/'
 languageCode = 'en-us'
-title = 'Horizon Innovation Team'
 theme = "tailbliss"
+title = 'Horizon Innovation Team'
+[params]
+description = "New Horizons"
+Moto = "we get it done"
